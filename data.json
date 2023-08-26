@@ -3,22 +3,22 @@
         {
             "foto": "images/produk/product_capuchino.jpg",
             "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
+            "size": "300 ml",
+            "harga": "20.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_espresso.jpg",
             "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
+            "size": "150 ml",
+            "harga": "15.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
+            "size": "150 ml",
+            "harga": "18.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
     ],
@@ -26,19 +26,19 @@
         {
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "180.000",
+            "size": "300 ml",
+            "harga": "16.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "180.000",
+            "size": "150 ml",
+            "harga": "18.000",
             "link": "https://www.google.com/search?sta&tbm=shop"
         }
     ],
-    "NonKopi": [
+    "nonkopi": [
         {
             "foto": "images/produk/es-dawet-susu.jpg",
             "nama": "Es Dawet",
@@ -50,7 +50,7 @@
             "foto": "images/produk/ilustrasi-es-krim-stroberi-1_169.jpeg",
             "nama": "Es Krim",
             "size": "100 gram",
-            "harga": "200.000",
+            "harga": "20.000",
             "link": "https://www.google.com/search?q=es-krim-stroberi=shop"
         }
     ]
