@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="id">
-
+    
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,9 +21,9 @@
     </style>
 </head>
 
-<body>
-    
-            
+<body> 
+</body>
+
     <!-- Tulis Kode Bootstrap Di Bawah Sini -->
     <nav class="navbar navbar-dark bg-success navbar-expand-lg bisadicopy">
         <div class="container">
@@ -61,7 +61,7 @@
             <h1>Pilih Produk Anda</h1>
             <p class="fs-4">Kualitas terbaik biji kopi pilihan fresh diambil langsung dari petani</p>
             <hr class="border border-success border-3 opacity-75">
-
+  
             <!-- Ini Untuk Select -->
             <div class="form-floating col-md-4 mx-auto">
                 <select class="form-select" id="select_kopi">
@@ -190,7 +190,7 @@
 
         function ambilData(dipilih) {
             /* Kode selanjutnya paste tepat di bawah sini */
-            $.getJSON(sumber).then(function (data) {
+            $.getJSON(sumber2).then(function (data) {
                 var data_kopi = data[dipilih]
                 console.log(data_kopi)
                 /* Kode ketiga paste tepat di bawah sini */
